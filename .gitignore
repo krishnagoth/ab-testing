@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+.vscode/
+ab_data.csv
+countries.csv
+abtest.py
+test.py
